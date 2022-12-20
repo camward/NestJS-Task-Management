@@ -2,6 +2,9 @@
 /dist
 /node_modules
 
+/front/build
+/front/node_modules
+
 # Logs
 logs
 *.log
